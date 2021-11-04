@@ -6,6 +6,8 @@
 header{
  background-image: url("backgroung.jpg");
  text-align: center;
+ border: 2px solid transparent;
+ border-radius: 25px;
  
 }
 
