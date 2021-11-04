@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+ background-image: url("backgroung.jpg");
+ text-align: center;
+ 
+}
+
+
+h1{
+    color: white;
+}
